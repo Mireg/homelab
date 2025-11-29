@@ -1,5 +1,0 @@
-include:
-  - ./services/immich-app/docker-compose.yml
-
-services: {}
-
