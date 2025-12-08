@@ -2,3 +2,5 @@
 /services/copyparty/copyparty/*
 /services/home-assistant/config/*
 /services/mc-server/data/*
+/services/calibre-web/config/*
+/services/calibre-web/plugins/*
