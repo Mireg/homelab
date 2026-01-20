@@ -1,5 +1,6 @@
 .env
 /services/copyparty/copyparty/*
+/services/copyparty/config
 /services/home-assistant/config/*
 /services/mc-server/data/*
 /services/calibre-web/config/*

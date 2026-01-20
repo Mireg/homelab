@@ -10,7 +10,7 @@ services:
       EULA: "TRUE"
       TZ: "Europe/Warsaw"
       TYPE: "VANILLA"
-      VERSION: "1.21.10"
+      VERSION: "1.21.11"
       MODE: "survival"
       DIFFICULTY: "hard"
       SPAWN_PROTECTION: "0"
