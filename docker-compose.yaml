@@ -3,4 +3,5 @@ include:
   - ./services/home-assistant/docker-compose.yaml
   - ./services/copyparty/docker-compose.yaml
   - ./services/mc-server/docker-compose.yaml
+  - ./services/calibre-web/docker-compose.yaml
 services: {}

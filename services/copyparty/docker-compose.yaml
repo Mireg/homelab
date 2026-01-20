@@ -9,6 +9,8 @@ services:
       - ./:/cfg:z
       - /home/mireg/fileshare:/w:z
 
+    env_file:
+      - ../../.env
     environment:
       LD_PRELOAD: /usr/lib/libmimalloc-secure.so.NOPE
       # enable mimalloc by replacing "NOPE" with "2" for a nice speed-boost (will use twice as much ram)
